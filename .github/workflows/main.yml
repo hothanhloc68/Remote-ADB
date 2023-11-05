@@ -1,0 +1,1 @@
+pm grant lowlight.setedit.mod android.permission.WRITE_SECURE_SETTINGS
